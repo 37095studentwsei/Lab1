@@ -11,6 +11,23 @@ public class Main {
     String s = "jakiś tekst\n";
 
     System.out.printf("a = %d,b = %f, s= %s %n",a,b,s);
+
+        System.out.print("ala");
+        System.out.print("ma");
+        System.out.print("kota");
+
+        System.out.println("ala");
+        System.out.println("ma");
+        System.out.println("kota");
+
+        System.out.print("ala\n");
+        System.out.print("ma\n");
+        System.out.print("kota\n");
+
+
+
+
+
     }
 }
 /**
